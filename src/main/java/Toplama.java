@@ -4,7 +4,8 @@ public class Toplama {
         topla(3, 2, 5, -10);
         //v3 techpro calismalari
         //V4 techpro kodlari..
-    }
+        //V5 master///
+        }
 
     public static void topla(int... a) {
         int toplam = 0;
