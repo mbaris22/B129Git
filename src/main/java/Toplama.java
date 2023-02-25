@@ -8,6 +8,7 @@ public class Toplama {
         //github denemegit
         //github da yazdim
         //HITHUB
+        //intelllijde yazdim
         }
 
     public static void topla(int... a) {
