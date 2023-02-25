@@ -2,6 +2,7 @@ public class Toplama {
 
     public static void main(String[] args) {
     topla(3,2,5,-10);
+    //v3 techpro calismalari
     }
     public static void topla(int... a){
        int toplam=0;
