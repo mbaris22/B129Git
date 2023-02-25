@@ -5,6 +5,7 @@ public class Toplama {
         //v3 techpro calismalari
         //V4 techpro kodlari..
         //V5 master///
+        //github denemegit
         }
 
     public static void topla(int... a) {
