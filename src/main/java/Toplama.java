@@ -6,6 +6,7 @@ public class Toplama {
         //V4 techpro kodlari..
         //V5 master///
         //github denemegit
+        //github da yazdim
         }
 
     public static void topla(int... a) {
